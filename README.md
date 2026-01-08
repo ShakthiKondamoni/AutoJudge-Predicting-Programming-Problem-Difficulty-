@@ -121,6 +121,9 @@ The Streamlit UI includes:
   - Predicted difficulty class
   - Predicted difficulty score (rounded to 2 decimals)
 
+ ## Demo video
+ [demo](https://drive.google.com/file/d/1tl05nrCGS_f15g_NzudQpgif3hddHT0F/view?usp=drivesdk)
+
 
 
 
