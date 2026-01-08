@@ -124,6 +124,10 @@ The Streamlit UI includes:
  ## Demo video
  [demo](https://drive.google.com/file/d/1tl05nrCGS_f15g_NzudQpgif3hddHT0F/view?usp=drivesdk)
 
+ ## Project report
+
+ [report](https://github.com/ShakthiKondamoni/AutoJudge-Predicting-Programming-Problem-Difficulty-/blob/main/Problem_Difficulty_Prediction_Detailed_Report.pdf)
+
 
 
 
